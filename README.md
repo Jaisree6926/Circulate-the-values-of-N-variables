@@ -24,6 +24,6 @@ Using the slicing concept rotate the list
         print("After circulating the values are:",list1)
         return
 ## Output:
-![OUTPUT](<Screenshot 2024-10-26 182538-1.png>)
+<img width="1289" height="510" alt="image" src="https://github.com/user-attachments/assets/8ce18fb6-3d73-497f-932e-1a0323973ec9" />
 
 ## Result:
